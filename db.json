@@ -1,0 +1,37 @@
+{
+  "games": [
+    {
+      "title": "Category 1",
+      "id": 1,
+      "items": [
+        { "id": 1, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 2, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 3, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 4, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 5, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+      ]
+    },
+    {
+      "title": "Category 2",
+      "id": 2,
+      "items": [
+        { "id": 6, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 7, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 8, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 9, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 10, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+      ]
+    },
+    {
+      "title": "Category 3",
+      "id": 3,
+      "items": [
+        { "id": 11, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 12, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 13, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 14, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+        { "id": 15, "icon": gameIcon, "title": "Pank City", "description": "Game description", },
+      ]
+    }
+  ]
+}
