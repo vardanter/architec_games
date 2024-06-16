@@ -1,5 +1,5 @@
 {
-  "games": [
+  "categories": [
     {
       "title": "Category 1",
       "id": 1,
@@ -19,7 +19,7 @@
         { "id": 7, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
         { "id": 8, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
         { "id": 9, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
-        { "id": 10, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description"  }
+        { "id": 10, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" }
       ]
     },
     {
@@ -33,5 +33,22 @@
         { "id": 15, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" }
       ]
     }
+  ],
+  "games": [
+    { "id": 1, "category": 1, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 2, "category": 1, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 3, "category": 1, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 4, "category": 1, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 5, "category": 1, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 6, "category": 2, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 7, "category": 2, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 8, "category": 2, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 9, "category": 2, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 10, "category": 2, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 11, "category": 3, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 12, "category": 3, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 13, "category": 3, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 14, "category": 3, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" },
+    { "id": 15, "category": 3, "icon": "https://cdn-icons-png.freepik.com/512/1732/1732452.png", "title": "Pank City", "description": "Game description" }
   ]
 }
